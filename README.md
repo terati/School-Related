@@ -1,2 +1,3 @@
 # School-Related
-Hellos there yos
+Essentially UIUC related files
+
